@@ -1,0 +1,9 @@
+C:\Users\mitiel\Desktop\tarea 1 programamcion\TrabajoFinalProgramacion\TrabajoFinalProgramacion\bin\Debug\TrabajoFinalProgramacion.exe.config
+C:\Users\mitiel\Desktop\tarea 1 programamcion\TrabajoFinalProgramacion\TrabajoFinalProgramacion\bin\Debug\TrabajoFinalProgramacion.exe
+C:\Users\mitiel\Desktop\tarea 1 programamcion\TrabajoFinalProgramacion\TrabajoFinalProgramacion\bin\Debug\TrabajoFinalProgramacion.pdb
+C:\Users\mitiel\Desktop\tarea 1 programamcion\TrabajoFinalProgramacion\TrabajoFinalProgramacion\obj\Debug\TrabajoFinalProgramacion.csproj.AssemblyReference.cache
+C:\Users\mitiel\Desktop\tarea 1 programamcion\TrabajoFinalProgramacion\TrabajoFinalProgramacion\obj\Debug\TrabajoFinalProgramacion.Properties.Resources.resources
+C:\Users\mitiel\Desktop\tarea 1 programamcion\TrabajoFinalProgramacion\TrabajoFinalProgramacion\obj\Debug\TrabajoFinalProgramacion.csproj.GenerateResource.cache
+C:\Users\mitiel\Desktop\tarea 1 programamcion\TrabajoFinalProgramacion\TrabajoFinalProgramacion\obj\Debug\TrabajoFinalProgramacion.csproj.CoreCompileInputs.cache
+C:\Users\mitiel\Desktop\tarea 1 programamcion\TrabajoFinalProgramacion\TrabajoFinalProgramacion\obj\Debug\TrabajoFinalProgramacion.exe
+C:\Users\mitiel\Desktop\tarea 1 programamcion\TrabajoFinalProgramacion\TrabajoFinalProgramacion\obj\Debug\TrabajoFinalProgramacion.pdb
